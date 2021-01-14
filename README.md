@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align = "center"> Olá, sou Pâmela Marsola </h1>
+<h3 align = "center">Front-end Developer em Flutter para aplicações mobile, amante de chá, IA e robótica.</h3>
 
-<!--
-**pgmarsola/pgmarsola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Eu atualmente trabalho na [AMcom](https://www.amcom.com.br/) como Front-end mobile em Flutter e UX/UI Designer 
 
-Here are some ideas to get you started:
+- Estou em constante estudo para melhorar minhas habilidades em desenvolvimento mobile, atualmente estudo as linguagens nativas (Java/Kotlin e Swift)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pgmarsola&show_icons=true&count_private=true" alt="pgmarsola" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgmarsola" alt="pgmarsola" />
+</p>
+
+<p align="center">
+ <a href="https://twitter.com/gabmizera" target="blank">
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/gabmizera" height="20" width="20" />
+ </a>
+ <a href="https://www.linkedin.com/in/pamelamarsola/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pamelamarsola/" height="20" width="20" />
+ </a>
+</p>
