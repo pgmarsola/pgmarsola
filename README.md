@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá, sou Pâmela Marsola </h1>
 <h3 align = "center">Front-end Developer em Flutter para aplicações mobile, amante de chá, IA e robótica.</h3>
 
-- Eu atualmente trabalho na [AMcom](https://www.amcom.com.br/) como Front-end mobile em Flutter e UX/UI Designer 
+- Eu atualmente trabalho na [Cielo](https://www.cielo.com.br) como Mobile Engineer no Garagem Cielo, um laboratório de inovações 
 
 - Estou em constante estudo para melhorar minhas habilidades em desenvolvimento mobile, atualmente estudo as linguagens nativas (Java/Kotlin e Swift)
 
