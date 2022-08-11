@@ -15,9 +15,9 @@
 
 <p align="center">
  <a href="https://twitter.com/gabmizera" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/gabmizera" height="20" width="20" />
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/gabmizera" height="20" width="20" color="#FFFFFF"/>
  </a>
  <a href="https://www.linkedin.com/in/pamelamarsola/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pamelamarsola/" height="20" width="20" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pamelamarsola/" height="20" width="20"  color="#FFFFFF"/>
  </a>
 </p>
