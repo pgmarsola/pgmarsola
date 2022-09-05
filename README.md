@@ -1,5 +1,5 @@
-<h1 align = "center"> Olá, sou Pâmela Marsola </h1>
-<h3 align = "center">Front-end Developer em Flutter para aplicações mobile, amante de chá, IA e robótica.</h3>
+<h1 align = "center"> Olá, sou Gab Marsola </h1>
+<h3 align = "center">Engineer Mobile com foco em Flutter, amante de chá, IA e robótica.</h3>
 
 - Eu atualmente trabalho na [Cielo](https://www.cielo.com.br) como Mobile Engineer no Garagem Cielo, um laboratório de inovações 
 
