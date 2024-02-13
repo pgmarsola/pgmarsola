@@ -1,9 +1,7 @@
 <h1 align = "center"> Olá, sou Gab Marsola </h1>
-<h3 align = "center">Engineer Mobile com foco em Flutter, amante de chá, IA e robótica.</h3>
+<h3 align = "center">Automation Engineer and Blockchain Guild Master</h3>
 
-- Eu atualmente trabalho na [Cielo](https://www.cielo.com.br) como Mobile Engineer no Garagem Cielo, um laboratório de inovações 
-
-- Estou em constante estudo para melhorar minhas habilidades em desenvolvimento mobile, atualmente estudo as linguagens nativas (Java/Kotlin e Swift)
+- Estou em constante estudo sobre Smart Contracts, dApps, Web3, Blockchain Ethereum e criptografia para blockchain
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pgmarsola&show_icons=true&count_private=true" alt="pgmarsola" />
