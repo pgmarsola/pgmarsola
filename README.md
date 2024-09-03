@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá, sou Gab Marsola </h1>
-<h3 align = "center">Automation Engineer and Blockchain Guild Master</h3>
+<h3 align = "center">Automation Engineer and Blockchain Specialist</h3>
 
 - Estou em constante estudo sobre Smart Contracts, dApps, Web3, Blockchain Ethereum e criptografia para blockchain
 
